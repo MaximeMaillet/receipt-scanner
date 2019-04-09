@@ -1,0 +1,10 @@
+{
+  "/public": {
+    "_static_": {
+      "target": "public"
+    }
+  },
+  "/upload": {
+    "post": "UploadController#save"
+  }
+}
